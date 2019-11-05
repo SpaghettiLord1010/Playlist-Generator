@@ -1,0 +1,10 @@
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\bin\Debug\Playlist Generator.exe.config
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\bin\Debug\Playlist Generator.exe
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\bin\Debug\Playlist Generator.pdb
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\obj\Debug\Playlist Generator.csprojAssemblyReference.cache
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\obj\Debug\Playlist_Generator.Form1.resources
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\obj\Debug\Playlist_Generator.Properties.Resources.resources
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\obj\Debug\Playlist Generator.csproj.GenerateResource.cache
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\obj\Debug\Playlist Generator.csproj.CoreCompileInputs.cache
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\obj\Debug\Playlist Generator.exe
+C:\Users\Testing\source\repos\Playlist Generator\Playlist Generator\obj\Debug\Playlist Generator.pdb
